@@ -1,9 +1,8 @@
 .box {
-    background-color: #016DFA;
+    background-color: #fff;
     color: #fff;
     text-align: center;
     padding: 10px;
-    border: 1px solid #fff;
 }
 .box .box {
     background-color: #00E265; 
@@ -14,4 +13,10 @@
 }
 .col {
     height: 20px;
+}
+.red {
+    background-color: #ff0000;
+}
+.black {
+    background-color: #000;
 }
